@@ -1,0 +1,8 @@
+{"_id":{"$oid":"5ce3a27eb88c8e22809dc3d0"},"trainName":"ExpressTrain(RR55)_BadullaToKandy","ptotal":"1080","date":"2019.05.20"}
+{"_id":{"$oid":"5ce3a393b88c8e22809dc3d1"},"trainName":"ExpressTrain(RR55)_KandyToBadulla","ptotal":"600","date":"2019.05.30"}
+{"_id":{"$oid":"5ce3a3d6b88c8e22809dc3d2"},"trainName":"ExpressTrain(RR100)_KandyToMaradana","ptotal":"550","date":"2019.06.01"}
+{"_id":{"$oid":"5ce3a427b88c8e22809dc3d3"},"trainName":"ExpressTrain(RR67)_PeradeniyaToBadulla","ptotal":"1000","date":"2019.05.02"}
+{"_id":{"$oid":"5ce3a47db88c8e22809dc3d4"},"trainName":"ExpressTrain(RR80)_GalleToMatara","ptotal":"1200","date":"2019.05.05"}
+{"_id":{"$oid":"5ce3a4d8b88c8e22809dc3d5"},"trainName":"ExpressTrain(RR66)_KotuwaToKandy","ptotal":"600","date":"2019.05.04"}
+{"_id":{"$oid":"5ce3a54fb88c8e22809dc3d6"},"trainName":"ExpressTrain(RR98)_HambanthotaToGalle","ptotal":"1300","date":"2019.05.01"}
+{"_id":{"$oid":"5ce3a5b4b88c8e22809dc3d7"},"trainName":"ExpressTrain(RR34)_TrincomaleeToJaffna","ptotal":"450","date":"2019.05.07"}

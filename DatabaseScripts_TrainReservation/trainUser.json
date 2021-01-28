@@ -1,0 +1,8 @@
+{"_id":{"$oid":"5ce39f39b88c8e22809dc3c8"},"uname":"R.M.S.A.Alawathugoda","useraddress":"150,Methsiri Mawatha,Malabe","email":"sa195@gmail.com","password":"sa123456789"}
+{"_id":{"$oid":"5ce39ff5b88c8e22809dc3c9"},"uname":"R.P.Peiris","useraddress":"23,Temple Road, Kandy","email":"pp23@gmail.com","password":"pp345"}
+{"_id":{"$oid":"5ce3a051b88c8e22809dc3ca"},"uname":"F.Senarathna","useraddress":"45,Vihara Mawatha,Kiribathgoda","email":"s56@gmail.com","password":"2345"}
+{"_id":{"$oid":"5ce3a0b4b88c8e22809dc3cb"},"uname":"T.samarakoon","useraddress":"235,Welimada road,NuwaraEliya","email":"a56@gmail.com","password":"34567"}
+{"_id":{"$oid":"5ce3a11fb88c8e22809dc3cc"},"uname":"K.Bandara","useraddress":"56,Kelaniya","email":"bf56@gmail.com","password":"4555"}
+{"_id":{"$oid":"5ce3a160b88c8e22809dc3cd"},"uname":"J.H.Liyanage","useraddress":"34,Matara","email":"hj2345@gmail.com","password":"222"}
+{"_id":{"$oid":"5ce3a1c4b88c8e22809dc3ce"},"uname":"A.J.Karunarathna","useraddress":"89,Dalada road,Kandy","email":"asd@gmail.com","password":"ghjk"}
+{"_id":{"$oid":"5ce3a21ab88c8e22809dc3cf"},"uname":"Y.Senevirathna","useraddress":"56,Darmapala mawatha,Moratuwa","email":"ytu@gmail.com","password":"5555"}
