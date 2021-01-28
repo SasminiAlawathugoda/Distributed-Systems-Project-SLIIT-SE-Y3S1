@@ -1,0 +1,138 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.header{
+  color: #282c34;
+  text-align: center;
+  font-family: "Britannic Bold";
+  font-size: larger;
+}
+
+.mainContainer{
+  position:absolute;
+  left:0;
+  top:0;
+  width: 100%;
+  height: 100%;
+  background-image: url("train.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.subContainer {
+
+  text-align: center;
+  color: brown;
+  font-family: "Britannic Bold";
+  font-size:larger;
+  font-style: initial;
+
+}
+
+.container3 {
+  text-align: center;
+}
+
+.container_row{
+  text-align: center;
+  font-family: "Britannic Bold";
+  font-size: larger;
+  color: #000;
+}
+
+.group_form {
+    text-align: center;
+    color: #282c34 ;
+
+}
+
+
+.button_primary {
+    color: brown;
+    background-color: cornflowerblue;
+    font-size: medium;
+    font-family: "Britannic Bold";
+
+}
+
+.button_primary2 {
+    color: black;
+    background-color: brown;
+    font-family: "Arial Black";
+    font-size: small;
+
+}
+
+.button_primary3 {
+  color: black;
+  background-color: brown;
+  font-family: "Arial Black";
+  font-size: small;
+}
+
+.cpay_button {
+   color: black;
+   background-color: mediumblue;
+   font-family: "Britannic Bold";
+   font-size: large;
+
+}
+
+.dpay_button {
+  color: black;
+  background-color: mediumblue;
+  font-family: "Britannic Bold";
+  font-size: large;
+
+}
+
+.train_search {
+  text-align: center;
+}
+
+.sp_container {
+  text-align: center;
+}
+
+.row_signout {
+  text-align: right;
+  color: mediumblue;
+
+}
+
+.row_back {
+  text-align: left;
+
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
